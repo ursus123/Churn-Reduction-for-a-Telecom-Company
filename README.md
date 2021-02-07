@@ -6,7 +6,7 @@ By predicting which customer is going to churn can allow businesses to take appr
 In this project I build a churn reduction model that can help reduce churn by +5.5%
 
 ## Data Source
-Data that was used in this study is of a telecom company, it has up to 20 features with a feature called churn which tells us if a customer has churned or not. This churn feature will be our target. (bigml.com/user/francisco/gallery/dataset/5163ad540c0b5e5b22000383)
+Data that was used in this study is of a telecom company, it has up to 20 features with a feature called churn which tells us if a customer has churned or not. This churn feature will be our target. (https://bigml.com/user/francisco/gallery/dataset/5163ad540c0b5e5b22000383)
 
 ## Prerequisite
 Jupyter Notebook (Anaconda 3) (https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)

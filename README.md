@@ -2,8 +2,8 @@
 
 Churn or customer attrition is a business metric that shows customers that stopped doing business or stopped using a particular service with a company.
 When a customer churns it means a company has lost that customer.
-By predicting which customer is going to churn can allow businesses to take appropriate actions to prevent losing a customer. So in this project, we are going to build a predictive churn model and see what kind of actions to take in order to reduce customer attrition.
-In this project I build a churn reduction model that can help reduce churn by +5.5%
+By predicting which customer is going to churn can allow businesses to take appropriate actions to prevent losing a customer. **So in this project, I build a predictive churn model to see what kind of actions to take in order to reduce customer attrition.
+In this project I built a churn reduction model that can help reduce churn by +5.5%**
 
 ## Data Source
 Data that was used in this study is of a telecom company, it has up to 20 features with a feature called churn which tells us if a customer has churned or not. This churn feature will be our target. (https://bigml.com/user/francisco/gallery/dataset/5163ad540c0b5e5b22000383)
